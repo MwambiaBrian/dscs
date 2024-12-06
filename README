@@ -17,13 +17,13 @@
    - The staging area tracks the files that are ready to be committed.
 
 3. **Committing Changes (`dscs commit`)**
-
+![alt text](image.png)
    - Create a new commit object, storing:
      - Changes
      - Metadata (e.g., commit message)
 
 4. **Viewing History (`dscs log`)**
-
+![alt text](image-1.png)
    - Display the commit history of the repository, including:
      - Commit hashes
      - Messages
