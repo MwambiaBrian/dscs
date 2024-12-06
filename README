@@ -4,7 +4,7 @@
 
 ### **High-Level Design**
 
-1. **Repository Initialization (` python dscs.py init`)**
+1. **Repository Initialization (`python dscs.py init`)**
 
    - Create a `.dscs` directory to store the repository's metadata, including:
      - Commit history
