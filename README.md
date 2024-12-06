@@ -30,9 +30,10 @@
      - Branch information
 
 5. **Branching and Merging (`dscs branch`, `dscs merge`)**
-
+![alt text](image-2.png)
    - Support branching by allowing users to:
      - Create and switch between branches.
+     ![alt text](image-3.png)
    - Allow merging two branches while detecting conflicts when they occur.
 
 6. **Diffs (`dscs diff`)**
